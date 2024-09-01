@@ -13,16 +13,16 @@ export default function Nav() {
           }}
         >
           <div style={linkStyle}>
-            <a href="#">About Me</a>
+            <a href="/">About Me</a>
           </div>
           <div style={linkStyle}>
-            <a href="#">Portfolio</a>
+            <a href="/portfolio">Portfolio</a>
           </div>
           <div style={linkStyle}>
-            <a href="#">Contact</a>
+            <a href="/contact">Contact</a>
           </div>
           <div style={linkStyle}>
-            <a href="#">Resume</a>
+            <a href="/resume">Resume</a>
           </div>
         </section>
       </nav>

@@ -9,6 +9,8 @@ export default function Footer() {
 
         <div style= {footerStyle}>
             <a href="https://github.com/melivesel">My GitHub Profile</a>
+
+            <a href="https://www.linkedin.com/in/melissa-bentley-2a3b6378/">My LinkedIn Profile</a>
         </div>
     )
 }
